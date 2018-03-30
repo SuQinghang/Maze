@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/page">
+        <file>image/Road.png</file>
+        <file>image/Wall.png</file>
+        <file>image/entrance.png</file>
+        <file>image/exit.png</file>
+        <file>image/path.png</file>
+    </qresource>
+</RCC>
